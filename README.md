@@ -19,3 +19,5 @@ How can specify location or directories I have.
 
 ###Day three
 Github
+### Reading Materials
+[Carpentries resources] (http://swcarpentry .github.io/shell-novice/)
